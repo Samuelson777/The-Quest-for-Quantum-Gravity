@@ -35,7 +35,3 @@ Through combined advancements in deep-space cosmological observations tracking e
 
 ## Usage
 Feel free to read, cite, and contribute to the discussions surrounding this synthesis. For the full text and mathematical derivations, please refer to the main manuscript file included in this repository.
-
-*** 
-
-Let me know if you need any adjustments to this README!
